@@ -1,0 +1,23 @@
+{
+  "name": "lightrail",
+  "version": "0.0.1",
+  "description": "Internal messaging dispatcher! Friend to `trolley`!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/austinbillings/lightrail.git"
+  },
+  "keywords": [
+    "async",
+    "messaging",
+    "message",
+    "dispatcher",
+    "event",
+    "framework"
+  ],
+  "author": "Austin B. <ab@austinbillings.com>",
+  "license": "MIT"
+}
